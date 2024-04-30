@@ -1,5 +1,12 @@
 #!/bin/bash
 
+###################
+#author: tanmay
+#date : 30/04/2024
+#
+#This shell script allows DevOps engineers to list users with access to a GitHub repository, enabling efficient management of collaborators and access control.
+###################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
